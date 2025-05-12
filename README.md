@@ -26,6 +26,6 @@ STEPS:
    docker ps
 - Allowed 90 port for bastion-host
 - Verify whether the nginx is running or not
-  
+
    curl http:34.93.82.177:90   
-file:///home/Amulya_Ravula/Downloads/Welcome%20to%20nginx!.html
+![Screenshot from 2025-05-12 11-05-41](https://github.com/user-attachments/assets/68ca73f5-dfe0-483e-bc40-0a8699eb834e)
